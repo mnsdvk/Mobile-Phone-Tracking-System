@@ -1,3 +1,8 @@
+In this project we have designed a data structure that will help us solve a simplified version of the mobile phone tracking problem, i.e., the fundamental problem of cellular networks: When a phone is called, find where
+it is located so that a connection may be established.
+
+
+
 actions1.txt is given as input to the file assn2checker.java.
 
 answers.txt contains the expected output for the provided actions.txt file.
